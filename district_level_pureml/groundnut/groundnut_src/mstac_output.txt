@@ -1,0 +1,3 @@
+*MSTAC*
+Training sMAPE: 9.31% NMSE: 5.41% 
+Validation sMAPE: 8.86% NMSE: 4.89%

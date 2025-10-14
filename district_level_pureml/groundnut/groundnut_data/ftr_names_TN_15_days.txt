@@ -1,0 +1,1 @@
+['MayJunJul_FPAR', 'AugSepOct_FPAR', 'MayJunJul_LAI', 'MayJunJul_LSWI', 'AugSepOct_LSWI', 'MayJunJul_NDVI', 'AugSepOct_NDVI', 'MayJunJul_Precipitation', 'AugSepOct_Precipitation', 'MayJunJul_SR', 'MayJunJul_Tmax', 'AugSepOct_Tmax', 'AugSepOct_Tmin', 'bdod', 'cec', 'cfvo', 'clay', 'nitrogen', 'ocs', 'phh2o', 'sand', 'silt', 'ocd','soc']

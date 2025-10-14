@@ -1,0 +1,6 @@
+[
+        'Aug-Oct_Tmin', 'Aug-Oct_ET',
+       'May-Jul_precip', 'Aug-Oct_precip',  'bdod',
+       'cec', 'clay', 'soc', 'cfvo', 'phh2o', 'sand', 'nitrogen', 'silt',
+       'ocd', 'ocs', 'May-Jul_VV', 'Aug-Oct_VV', 'May-Jul_VH', 'Aug-Oct_VH',
+       'May-Jul_NDVI', 'Aug-Oct_NDVI']

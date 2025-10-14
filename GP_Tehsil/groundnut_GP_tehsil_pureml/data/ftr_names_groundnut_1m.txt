@@ -1,0 +1,6 @@
+['Oct-Nov_Tmax', 'Dec-Jan_Tmax',
+       'Oct-Nov_Tmin', 'Dec-Jan_Tmin', 'Oct-Nov_Precip', 'Dec-Jan_Precip',
+        'Oct-Nov_ET', 'Dec-Jan_ET', 'bdod', 'cec',
+       'clay', 'soc', 'cfvo', 'phh2o', 'sand', 'nitrogen', 'silt', 'ocd',
+       'ocs', 'Oct-Nov_VV', 'Dec-Jan_VV', 'Oct-Nov_VH', 'Dec-Jan_VH',
+       'Oct-Nov_NDVI', 'Dec-Jan_NDVI']

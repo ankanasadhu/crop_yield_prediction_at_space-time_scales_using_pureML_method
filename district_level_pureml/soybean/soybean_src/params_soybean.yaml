@@ -1,0 +1,20 @@
+python_path: C:\Users\HP\AppData\Local\Microsoft\WindowsApps\python3.11.exe
+script_path: F:/codes_crop_yield_prediction_updated/district_level_pureml/soybean/soybean_src/main.py
+working_directory: F:/codes_crop_yield_prediction_updated/district_level_pureml/soybean/soybean_src
+train: false
+train_file_path: F:/codes_crop_yield_prediction_updated/district_level_pureml/soybean/soybean_data/Yield
+  Districts closest_final.csv
+train_yield_path: F:/codes_crop_yield_prediction_updated/district_level_pureml/soybean/soybean_data/Yield_new.csv
+run_mstac: true
+district_data_path: F:/codes_crop_yield_prediction_updated/district_level_pureml/soybean/soybean_data/MPdata_MayJunJul_AugSepOct_avg.csv
+load_models_path: F:/codes_crop_yield_prediction_updated/district_level_pureml/soybean/soybean_models/
+lstm_model_name: default_model.h5
+test: false
+test_pred_path: F:/codes_crop_yield_prediction_updated/district_level_pureml/soybean/soybean_data/Test_prediction.csv
+prev_data_path: F:/codes_crop_yield_prediction_updated/district_level_pureml/soybean/soybean_data/Test_input_LSTM.csv
+test_data_path: F:/codes_crop_yield_prediction_updated/district_level_pureml/soybean/soybean_data/Test_input_15days_MSTAC.csv
+train_years: 17
+num_districts: 40
+pred_time: 15_days
+scale_data: true
+test_yield_data_path: F:/codes_crop_yield_prediction_updated/district_level_pureml/soybean/soybean_data/Test_yield_MP.csv
